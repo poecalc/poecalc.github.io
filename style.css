@@ -1,0 +1,25 @@
+div {
+	width: 300px;
+	border: 1px solid #000;
+	position: relative;
+	margin: 0 auto;
+}
+.input {
+	margin: 0 auto;
+	display: block;
+	width: 255px;
+	position: relative;
+	margin-top: 5px;
+}
+input {
+	position: absolute;
+	margin-bottom: 5px;
+	right: 0;
+}
+#button {
+	display: block;
+	width: 150px;
+	margin: 0 auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
